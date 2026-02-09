@@ -1,0 +1,23 @@
+# Example subtitle files for testing
+
+uploads/
+outputs/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.vscode/
+.idea/
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+node_modules/
